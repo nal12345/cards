@@ -9,7 +9,7 @@ msrp_price: "139.00",
 product__link_url: "http://www.gilt.com/sale/women/deux-lux-2390/product/1042523881-deux-lux-mojito-large-tote?utm_medium=api&utm_campaign=TwitterTest&utm_source=salesapi",
 product__image_300_400: "http://cdn1.gilt.com/images/share/uploads/0000/0003/0271/302712666/300x400.jpg",
 sale_price: "49.00",
-units_for_sale: "8",
+units_for_sale: "9",
 id: 1042523881,
 name: "Mojito Large Tote"
 }
